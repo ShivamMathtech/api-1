@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cheeseburger",
+    "description": "A juicy beef patty topped with melted cheddar cheese, lettuce, tomato, pickles, and onions on a sesame seed bun.",
+    "price": 8.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/%23foodlover%23hungry.jfif"
+  },
+  {
+    "id": 2,
+    "name": "Bacon Double Cheeseburger",
+    "description": "Double beef patties, crispy bacon, cheddar cheese, and BBQ sauce on a toasted bun.",
+    "price": 11.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/18%20Top%20Sonic%20Secret%20Menu%20Items%20To%20Try%20in%202024.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Veggie Burger",
+    "description": "A healthy plant-based patty topped with avocado, lettuce, tomato, and vegan mayo on a multigrain bun.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/4%20Ways%20Tablet%20POS%20Systems%20Increase%20Sales%20in%20Fast%20Food%20Restaurants.jfif"
+  },
+  {
+    "id": 4,
+    "name": "Spicy Chicken Burger",
+    "description": "Crispy fried chicken fillet with spicy mayo, lettuce, and jalapenos on a soft potato bun.",
+    "price": 8.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/9%20delicious%20burger%20spots%20around%20Colorado%20_%20OutThere%20Colorado.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Mushroom Swiss Burger",
+    "description": "Sautéed mushrooms, melted Swiss cheese, and garlic aioli on a ciabatta roll.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/A%20hamburger%20with%20a%20bun%20and%20lettuce%20on%20it%20_%20Premium%20AI-generated%20image.jfif"
+  },
+  {
+    "id": 6,
+    "name": "BBQ Bacon Burger",
+    "description": "Beef patty, smoked bacon, tangy BBQ sauce, and crispy onion rings.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Burger%20King%20Is%20Giving%20Away%20Free%20%26%20Cheap%20Food%20for%2012%20Straight%20Days%20This%20Month.jfif"
+  },
+  {
+    "id": 7,
+    "name": "Guacamole Bacon Burger",
+    "description": "Topped with creamy guacamole, bacon, pepper jack cheese, and jalapenos.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Burger%20and%20Fries%20Combo%20stock%20image_%20Image%20of%20plate%2C%20snack%20-%204056765.jfif"
+  },
+  {
+    "id": 8,
+    "name": "Buffalo Chicken Burger",
+    "description": "Spicy buffalo chicken patty with blue cheese sauce, lettuce, and tomato.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Classical%20Burgers%20and%20fries%20photography%20(1).jfif"
+  },
+  {
+    "id": 9,
+    "name": "Turkey Burger",
+    "description": "Grilled turkey patty with Swiss cheese, lettuce, tomato, and mustard on a whole wheat bun.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Classical%20Burgers%20and%20fries%20photography.jfif"
+  },
+  {
+    "id": 10,
+    "name": "BBQ Pulled Pork Burger",
+    "description": "Slow-cooked pulled pork, BBQ sauce, and coleslaw on a toasted bun.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Crispy%20Chicken%20Sandwiches.jfif"
+  },
+  {
+    "id": 11,
+    "name": "Avocado Ranch Burger",
+    "description": "Beef patty with fresh avocado, ranch dressing, lettuce, and tomato.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Croissant%20de%20Peito%20de%20Peru.jfif"
+  },
+  {
+    "id": 12,
+    "name": "Teriyaki Pineapple Burger",
+    "description": "Beef patty glazed with teriyaki sauce, topped with grilled pineapple and Swiss cheese.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Croissant%20de%20Peito%20de%20Peru.jfif"
+  },
+  {
+    "id": 13,
+    "name": "Jalapeno Popper Burger",
+    "description": "Stuffed with jalapenos and cream cheese, topped with crispy bacon.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Dexter's%20Fried%20Chicken.jfif"
+  },
+  {
+    "id": 14,
+    "name": "Peppercorn Ranch Burger",
+    "description": "Topped with peppercorn sauce, lettuce, and tomato, served on a toasted bun.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Do%20follow.jfif"
+  },
+  {
+    "id": 15,
+    "name": "Chili Cheese Burger",
+    "description": "A beef patty smothered in chili, shredded cheese, and onions on a toasted bun.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Food%20Photography%20(fast%20food)%20(1).jfif"
+  },
+  {
+    "id": 16,
+    "name": "Blue Cheese Burger",
+    "description": "Topped with tangy blue cheese crumbles, lettuce, and tomato on a toasted bun.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Foodivine%20Photography%20and%20Image%20Creation%20Studio%20-%20Food%20%26%20Drink%20Photography%20%2B%20Motion%20Spotlight%20Jan%202017%20magazine.jfif"
+  },
+  {
+    "id": 17,
+    "name": "Patty Melt",
+    "description": "Beef patty, caramelized onions, and Swiss cheese on toasted rye bread.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Fotografia%20De%20Comida%20_%20PFZ%20Studio.jfif"
+  },
+  {
+    "id": 18,
+    "name": "Hawaiian Burger",
+    "description": "Grilled beef patty with pineapple, ham, and teriyaki glaze on a sweet Hawaiian bun.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Free%20Photo%20_%20Perfect%20cheese%20burger%20with%20vegetables%20on%20wooden%20table%20and%20black%20background%20Ai%20generative.jfif"
+  },
+  {
+    "id": 19,
+    "name": "Smash Burger",
+    "description": "Two smashed beef patties with American cheese, pickles, and special sauce on a soft bun.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Fried%20Chicken%20Sub.jfif"
+  },
+  {
+    "id": 20,
+    "name": "Grilled Chicken Burger",
+    "description": "Grilled chicken breast, Swiss cheese, lettuce, tomato, and honey mustard on a wheat bun.",
+    "price": 8.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/HAMBURGER_!%20THAT%20WAS%20WHAT%20I%20ATE%20THIS%20MORNING%20IN%20THE%20BREAKFAST!%20%20BUEN%C3%8DSIMO!%20%20DELICIOUS!.jfif"
+  },
+  {
+    "id": 21,
+    "name": "Tex-Mex Burger",
+    "description": "Beef patty with pepper jack cheese, jalapenos, avocado, and chipotle mayo.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Hamburger%20Hot%20Dogs%20is%20a%20Fun%20Twist%20on%20the%20Classic%20Recipe.jfif"
+  },
+  {
+    "id": 22,
+    "name": "Pesto Chicken Burger",
+    "description": "Grilled chicken breast, basil pesto, mozzarella, and sun-dried tomatoes on a ciabatta roll.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Hamburguesa%20by%20Ira.jfif"
+  },
+  {
+    "id": 23,
+    "name": "Greek Lamb Burger",
+    "description": "Lamb patty, tzatziki sauce, feta cheese, lettuce, and tomato on a pita bun.",
+    "price": 12.49,
+    "image_url": "https://example.com/images/greek-lamb-burger.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Southern Fried Chicken Burger",
+    "description": "Crispy fried chicken, pickles, lettuce, and mayo on a toasted bun.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Happy%20Meal%C2%AE%20Chicken%20MACDO%C2%AE%20_%20McDonald's%20Egypt.jfif"
+  },
+  {
+    "id": 25,
+    "name": "Truffle Burger",
+    "description": "Beef patty with truffle aioli, sautéed mushrooms, and Swiss cheese.",
+    "price": 12.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Healthy%20Burger_%20How%20to%20Make%20One%20_%20The%20Leaf%20Nutrisystem%20Blog.jfif"
+  },
+  {
+    "id": 26,
+    "name": "Kimchi Burger",
+    "description": "Beef patty topped with kimchi, sriracha mayo, and sesame seeds.",
+    "price": 11.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/How%20to%20use%20your%20Points%20at%20McDonald%E2%80%99s.jfif"
+  },
+  {
+    "id": 27,
+    "name": "Fajita Burger",
+    "description": "Beef patty with grilled onions and peppers, cheddar cheese, and fajita sauce.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/IHOP%20isn't%20changing%20its%20name_%20It's%20just%20promoting%20its%20new%20line%20of%20burgers.jfif"
+  },
+  {
+    "id": 28,
+    "name": "Taco Burger",
+    "description": "Seasoned beef patty, lettuce, tomato, cheese, and taco sauce on a tortilla bun.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Johnnie%20Grill.jfif"
+  },
+  {
+    "id": 29,
+    "name": "Gourmet Burger",
+    "description": "Premium beef patty, arugula, goat cheese, caramelized onions, and truffle aioli.",
+    "price": 13.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Losing%20My%20Hair%20At%2019%20And%20How%20To%20Prevent%20Hairloss.jfif"
+  },
+  {
+    "id": 30,
+    "name": "Pizza Burger",
+    "description": "Beef patty topped with marinara sauce, mozzarella, and pepperoni on a garlic bun.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/MENU%20MC.jfif"
+  },
+  {
+    "id": 31,
+    "name": "Philly Cheeseburger",
+    "description": "Beef patty with sautéed peppers, onions, mushrooms, and provolone cheese.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/McDonald%E2%80%99s%20Menu_%20Our%20Full%20McDonald%E2%80%99s%20Food%20Menu%20_%20McDonald%E2%80%99s.jfif"
+  },
+  {
+    "id": 32,
+    "name": "Sloppy Joe Burger",
+    "description": "Beef patty with homemade sloppy joe mix, cheddar cheese, and pickles.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Paneer%20Kathi%20Rolls%20Recipe%20-%20khaddoroshik.jfif"
+  },
+  {
+    "id": 33,
+    "name": "Pineapple Habanero Burger",
+    "description": "Sweet and spicy beef patty with grilled pineapple, habanero sauce, and pepper jack cheese.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Por%C3%A7%C3%B5es%20E%20Com%20Acompanhamento%20Cerveja%20De%20Copo%20Social%20Media%20PSD%20Edit%C3%A1vel.jfif"
+  },
+  {
+    "id": 34,
+    "name": "Buffalo Blue Cheese Burger",
+    "description": "Buffalo-sauced beef patty with blue cheese crumbles, lettuce, and tomato.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Premium%20Photo%20_%20Burger%20and%20french%20fries%20on%20cutboard.jfif"
+  },
+  {
+    "id": 35,
+    "name": "Black Bean Veggie Burger",
+    "description": "Spicy black bean patty with avocado, lettuce, tomato, and salsa.",
+    "price": 8.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Premium%20Photo%20_%20Floating%20burger%20isolated.jfif"
+  },
+  {
+    "id": 36,
+    "name": "Crispy Fish Burger",
+    "description": "Fried fish fillet with tartar sauce, lettuce, and tomato on a toasted bun.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Premium%20Photo%20_%20Homemade%20hamburger.jfif"
+  },
+  {
+    "id": 37,
+    "name": "Sriracha Burger",
+    "description": "Beef patty with spicy sriracha sauce, jalapenos, and pepper jack cheese.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Shed%20Salad.jfif"
+  },
+  {
+    "id": 38,
+    "name": "Southern BBQ Burger",
+    "description": "Beef patty topped with BBQ pulled pork, coleslaw, and crispy onions.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Template%20Para%20Social%20Media%20Sextou%20Burger%20Delivery%20PSD%20Edit%C3%A1vel.jfif"
+  },
+  {
+    "id": 39,
+    "name": "Shrimp Po' Boy Burger",
+    "description": "Crispy shrimp with lettuce, tomato, pickles, and remoulade sauce on a soft bun.",
+    "price": 12.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/The%20%231%20Healthiest%20Menu%20Item%20at%2030%20Popular%20Restaurant%20Chains.jfif"
+  },
+  {
+    "id": 40,
+    "name": "Garlic Butter Burger",
+    "description": "Beef patty smothered in garlic butter, topped with caramelized onions and Swiss cheese.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/The%20Entire%20McDonald's%20Menu%2C%20Ranked%20by%20Nutrition.jfif"
+  },
+  {
+    "id": 41,
+    "name": "Double Stacker Burger",
+    "description": "Two beef patties with American cheese, pickles, and special sauce on a sesame seed bun.",
+    "price": 11.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/The%20Super%20%E2%80%9CHero%E2%80%9D%20of%20Food%20Photography%20_%20Phoode.jfif"
+  },
+  {
+    "id": 42,
+    "name": "Chicken Caesar Burger",
+    "description": "Grilled chicken with Caesar dressing, parmesan cheese, and lettuce on a ciabatta roll.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/The%20Top%20Food%20Franchises%20of%202020%20_%20Entrepreneur.jfif"
+  },
+  {
+    "id": 43,
+    "name": "Mac and Cheese Burger",
+    "description": "Beef patty topped with creamy mac and cheese and crispy bacon.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/This%20Is%20What%20a%20McDonald's%20Menu%20Looked%20Like%20in%20the%201980s.jfif"
+  },
+  {
+    "id": 44,
+    "name": "Nashville Hot Chicken Burger",
+    "description": "Spicy fried chicken with pickles and mayo on a toasted bun.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/This%20Is%20Why%20Drinking%20A%20Soda%20With%20Your%20Big%2C%20Juicy%20Hamburger%20Is%20A%20Really%20Bad%20Idea.jfif"
+  },
+  {
+    "id": 45,
+    "name": "Avocado Bacon Burger",
+    "description": "Beef patty topped with fresh avocado, crispy bacon, and ranch dressing.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Vista%20superior%20da%20refei%C3%A7%C3%A3o%20de%20fast%20food%20_%20Foto%20Gr%C3%A1tis.jfif"
+  },
+  {
+    "id": 46,
+    "name": "Buffalo Ranch Chicken Burger",
+    "description": "Crispy chicken fillet with buffalo sauce and ranch dressing, served on a potato bun.",
+    "price": 9.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Who%20Invented%20the%20Sandwich_%20_%20HISTORY.jfif"
+  },
+  {
+    "id": 47,
+    "name": "Loaded Nacho Burger",
+    "description": "Beef patty with nacho cheese, jalapenos, and tortilla strips.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/X-salada%20cl%C3%A1ssico.jfif"
+  },
+  {
+    "id": 48,
+    "name": "Brie and Apple Burger",
+    "description": "Beef patty topped with melted brie cheese and thinly sliced apple, with a balsamic glaze.",
+    "price": 12.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(12).jfif"
+  },
+  {
+    "id": 49,
+    "name": "Cuban Burger",
+    "description": "Pork patty with ham, Swiss cheese, pickles, and mustard on a toasted Cuban roll.",
+    "price": 11.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(13).jfif"
+  },
+  {
+    "id": 50,
+    "name": "Maple Bacon Burger",
+    "description": "Beef patty with maple-glazed bacon, cheddar cheese, and arugula on a toasted brioche bun.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(14).jfif"
+  },
+  {
+    "id": 51,
+    "name": "Honey Mustard Chicken Burger",
+    "description": "Grilled chicken breast with honey mustard sauce, lettuce, and tomato on a soft bun.",
+    "price": 9.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(15).jfif"
+  },
+  {
+    "id": 52,
+    "name": "Habanero Beef Burger",
+    "description": "Beef patty topped with habanero sauce, pepper jack cheese, and jalapenos.",
+    "price": 11.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(16).jfif"
+  },
+  {
+    "id": 53,
+    "name": "Crab Cake Burger",
+    "description": "Fried crab cake with lettuce, tomato, and remoulade sauce on a soft bun.",
+    "price": 12.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(17).jfif"
+  },
+  {
+    "id": 54,
+    "name": "Greek Chicken Burger",
+    "description": "Grilled chicken breast with feta cheese, olives, and tzatziki sauce on a pita bun.",
+    "price": 10.49,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/download%20(18).jfif"
+  },
+  {
+    "id": 55,
+    "name": "Ranch Bacon Burger",
+    "description": "Beef patty topped with crispy bacon, ranch dressing, and cheddar cheese on a toasted bun.",
+    "price": 10.99,
+    "image_url": "https://raw.githubusercontent.com/ShivamMathtech/Image/refs/heads/master/Croissant%20de%20Peito%20de%20Peru.jfif"
+  }
+]
